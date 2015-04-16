@@ -1,0 +1,7 @@
+.metadata/
+.recommenders/
+RemoteSystemsTempFIles/
+.settings/
+audio-hack/bin/
+
+*.swp
